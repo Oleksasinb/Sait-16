@@ -119,7 +119,7 @@ h3 {
         height: 70px;
     }
 }
-@media screen and (max-width: 769px) {
+@media screen and (max-width: 991px) {
     h3 {
         font-size: 30px;
     }
@@ -141,7 +141,7 @@ h3 {
         margin: 5px;
     }
 }
-@media screen and (max-width: 415px) {
+@media screen and (max-width: 767px) {
     .header {
         height: 220px;
     }
