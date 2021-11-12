@@ -151,10 +151,10 @@ h3 {
         flex-direction: column;
     }
     .content {
-        height: 167vh;
-    }
+        height: 206vh;
+    } 
     .content-iner {
-        height: 167vh;
+        height: 206vh;
     }
     ul {
         display: flex;
@@ -172,7 +172,7 @@ h3 {
         margin: 10px;
     }
     .bl1 {
-        height: 45vh;
+        height: 60vh;
     }
     .bl2 {
         height: 120vh;
